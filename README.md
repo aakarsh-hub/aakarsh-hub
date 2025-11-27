@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## 🚀 Product Manager | Digital Strategy | Growth & Innovation
+## 🚀 AI Product Manager | Digital Strategy | Growth & Innovation
   
 *Transforming ideas into impactful products through data-driven decisions and user-centric design*
 
