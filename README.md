@@ -56,7 +56,9 @@ Passionate Product Manager with expertise in defining product vision, executing 
 
 ### Product Analytics & Insights
 
-1. **[Product Analytics Dashboard](https://github.com/aakarsh-hub/realtime-product-analytics)** - Real-time analytics platform with custom metrics and visualizations
+1. **[Final Prep AI](https://github.com/aakarsh-hub/Final-Prep-AI)** - AI-powered interview preparation platform to help candidates think clearly, answer confidently, and perform better.
+
+2. **[Product Analytics Dashboard](https://github.com/aakarsh-hub/realtime-product-analytics)** - Real-time analytics platform with custom metrics and visualizations.
 
 ## 📚 Product Management Philosophy
 
